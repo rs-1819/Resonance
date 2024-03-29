@@ -2,7 +2,7 @@
 
 Welcome to Resonance, a Python-based tool that enables the conversion of audio files into images and vice versa. This project aims to bridge the gap between audio and visual domains, facilitating the use of AI diffusion models for audio generation from images.
 
-![AUDIO]((https://i.imgur.com/Jb8xa2z.png)
+![AUDIO](https://i.imgur.com/Jb8xa2z.png)
 
 ## Features
 
