@@ -19,7 +19,7 @@ Unlike using spectrograms for audio representation, Project Resonance preserves 
 
 ## Pixel Expansion and Fidelity
 
-The pixel expansion factor in Project Resonance allows you to control the size of the generated images. While increasing the pixel expansion factor reduces the fidelity of the audio representation, it can make the audio training process more accurate. By expanding each pixel, the model can capture more granular details of the audio, leading to better generation results.
+The pixel expansion factor in Project Resonance allows you to control the size of the pixels. While increasing the pixel expansion factor reduces the time of the audio, it can make the audio training process more accurate. By expanding each pixel, the model can capture more granular details of the audio, leading to better generation results.
 
 ## Requirements
 
